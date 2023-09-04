@@ -1,1 +1,1 @@
-# Python tricks and tips here.
+# Python tips and tricks here.
